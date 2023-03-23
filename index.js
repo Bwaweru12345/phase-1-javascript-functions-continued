@@ -17,4 +17,4 @@ function wrapAdjective(symb){
     }
 }
     
-wrapAdjective()
+wrapAdjective().
